@@ -12,7 +12,7 @@ function App() {
         <ZapparCamera />
         <InstantTracker placementMode={placementMode} placementCameraOffset={[0, 0, -5]}>
           <mesh>
-            <sphereBufferGeometry />
+            <boxBufferGeometry />
             <meshStandardMaterial color="hotpink" />
           </mesh>
         </InstantTracker>
