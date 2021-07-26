@@ -5,8 +5,8 @@
     "main.js.map": "/react-three-example-instant-tracking-cube/static/js/main.ce4c64df.chunk.js.map",
     "runtime-main.js": "/react-three-example-instant-tracking-cube/static/js/runtime-main.ac9b0675.js",
     "runtime-main.js.map": "/react-three-example-instant-tracking-cube/static/js/runtime-main.ac9b0675.js.map",
-    "static/js/2.5efcf4de.chunk.js": "/react-three-example-instant-tracking-cube/static/js/2.5efcf4de.chunk.js",
-    "static/js/2.5efcf4de.chunk.js.map": "/react-three-example-instant-tracking-cube/static/js/2.5efcf4de.chunk.js.map",
+    "static/js/2.70f121a5.chunk.js": "/react-three-example-instant-tracking-cube/static/js/2.70f121a5.chunk.js",
+    "static/js/2.70f121a5.chunk.js.map": "/react-three-example-instant-tracking-cube/static/js/2.70f121a5.chunk.js.map",
     "static/js/3.7bc2a934.chunk.js": "/react-three-example-instant-tracking-cube/static/js/3.7bc2a934.chunk.js",
     "static/js/3.7bc2a934.chunk.js.map": "/react-three-example-instant-tracking-cube/static/js/3.7bc2a934.chunk.js.map",
     "face_tracking_model.zbin": "/react-three-example-instant-tracking-cube/482727c0e7dd40d73f5aae47f238ad61.zbin",
@@ -14,14 +14,14 @@
     "face_mesh_full_head_simplified_model.zbin": "/react-three-example-instant-tracking-cube/f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "/react-three-example-instant-tracking-cube/index.html",
     "static/css/main.559d2a52.chunk.css.map": "/react-three-example-instant-tracking-cube/static/css/main.559d2a52.chunk.css.map",
-    "static/js/2.5efcf4de.chunk.js.LICENSE.txt": "/react-three-example-instant-tracking-cube/static/js/2.5efcf4de.chunk.js.LICENSE.txt",
-    "static/js/worker.54b29517.worker.js": "/react-three-example-instant-tracking-cube/static/js/worker.54b29517.worker.js",
-    "static/js/worker.54b29517.worker.js.map": "/react-three-example-instant-tracking-cube/static/js/worker.54b29517.worker.js.map",
+    "static/js/2.70f121a5.chunk.js.LICENSE.txt": "/react-three-example-instant-tracking-cube/static/js/2.70f121a5.chunk.js.LICENSE.txt",
+    "static/js/worker.21a508d8.worker.js": "/react-three-example-instant-tracking-cube/static/js/worker.21a508d8.worker.js",
+    "static/js/worker.21a508d8.worker.js.map": "/react-three-example-instant-tracking-cube/static/js/worker.21a508d8.worker.js.map",
     "zcv/zcv.wasm": "/react-three-example-instant-tracking-cube/zcv/zcv.wasm"
   },
   "entrypoints": [
     "static/js/runtime-main.ac9b0675.js",
-    "static/js/2.5efcf4de.chunk.js",
+    "static/js/2.70f121a5.chunk.js",
     "static/css/main.559d2a52.chunk.css",
     "static/js/main.ce4c64df.chunk.js"
   ]
