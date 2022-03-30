@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.3d972525.css",
-    "main.js": "./static/js/main.79493476.js",
-    "static/js/529.f3f902c2.chunk.js": "./static/js/529.f3f902c2.chunk.js",
-    "static/js/zcv.wasm": "./static/js/zcv.wasm",
-    "face_mesh_full_head_simplified_model.zbin": "./f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
-    "face_mesh_face_model.zbin": "./b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
+    "main.css": "./static/css/main.559d2a52.chunk.css",
+    "main.js": "./static/js/main.4121f102.chunk.js",
+    "main.js.map": "./static/js/main.4121f102.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6cb5ca47.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6cb5ca47.js.map",
+    "static/js/2.e307f6d8.chunk.js": "./static/js/2.e307f6d8.chunk.js",
+    "static/js/2.e307f6d8.chunk.js.map": "./static/js/2.e307f6d8.chunk.js.map",
+    "static/js/3.594a4f10.chunk.js": "./static/js/3.594a4f10.chunk.js",
+    "static/js/3.594a4f10.chunk.js.map": "./static/js/3.594a4f10.chunk.js.map",
     "face_tracking_model.zbin": "./482727c0e7dd40d73f5aae47f238ad61.zbin",
-    "static/media/three.cjs": "./static/media/three.1b3474015932fca71327.cjs",
-    "static/js/worker.ab53b058.worker.js": "./static/js/worker.ab53b058.worker.js",
+    "face_mesh_face_model.zbin": "./b4f46e148a3b3b5aef90717d8d60e3fc.zbin",
+    "face_mesh_full_head_simplified_model.zbin": "./f7b62a3a53b5c9b3222ba8dc53cb8b11.zbin",
     "index.html": "./index.html",
-    "static/media/javascript,__webpack_public_path__ = __webpack_base_uri__ = htmlWebpackPluginPublicPath;": "./static/media/.1feff74faaf0efc6a044",
-    "main.3d972525.css.map": "./static/css/main.3d972525.css.map",
-    "main.79493476.js.map": "./static/js/main.79493476.js.map",
-    "529.f3f902c2.chunk.js.map": "./static/js/529.f3f902c2.chunk.js.map"
+    "static/css/main.559d2a52.chunk.css.map": "./static/css/main.559d2a52.chunk.css.map",
+    "static/js/2.e307f6d8.chunk.js.LICENSE.txt": "./static/js/2.e307f6d8.chunk.js.LICENSE.txt",
+    "static/js/worker.40d070fe.worker.js": "./static/js/worker.40d070fe.worker.js",
+    "static/js/worker.40d070fe.worker.js.map": "./static/js/worker.40d070fe.worker.js.map",
+    "static/js/zcv.wasm": "./static/js/zcv.wasm"
   },
   "entrypoints": [
-    "static/css/main.3d972525.css",
-    "static/js/main.79493476.js"
+    "static/js/runtime-main.6cb5ca47.js",
+    "static/js/2.e307f6d8.chunk.js",
+    "static/css/main.559d2a52.chunk.css",
+    "static/js/main.4121f102.chunk.js"
   ]
 }
